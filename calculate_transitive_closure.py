@@ -1,3 +1,5 @@
+# Created by Carson Breissinger
+
 def getR():
     while True:
         try:
